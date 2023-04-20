@@ -1,35 +1,19 @@
-# homework
+ros package for auto_landing
 
-第一节 Introduction 作业 HW1: Regression
+I have currently achieved the landing of a single unmanned aerial vehicle on a shaking platform. The results can be seen from this [video](https://drive.google.com/file/d/1Du2hd4LyCqpviYpElHeEIIWHoj1bF2gY/view?usp=sharing)
 
-第二节 Deep Learning 作业 HW2: Classification
+## Installation
 
-第三节 Self-Attention 作业 HW3: CNN HW4: Self-Attention
+Please refer to [environment_setup](https://github.com/120090049/auto_landing/wiki) to setup px4 and mavros.
+After then, cd to your work space.
 
-第四节 Theory of ML
+```Python
+git clone https://github.com/120090049/auto_landing.git  
+catkin_make  
+source /home/username/catkin_ws/devel/setup.bash   
+```
 
-第五节 Transformer 作业 HW5: Transformer
+or add it to the ~/.bashrc
 
-第六节 Generative Model 作业 HW6: GAN
+![image.png](README+60994b14-9d30-4bb8-8c81-5bcd51f6f9a9/image.png)
 
-第七节 Self-Supervised Learning 作业 HW7: BERT 
-
-HW8: Autoencoder
-
-第八节 Explainable AI / Adversarial Attack 作业 HW9: Explainable AI HW10: Adversarial Attack
-
-第九节 Domain Adaptation/ RL 作业 HW11: Adaptation
-
-第十节 RL 作业 HW12: RL
-
-第十一节 Privacy v.s. ML
-
-第十二节 Quantum ML
-
-第十三节 Life-Long/Compression 作业 HW13: Life-Long HW14: Compression
-
-第十四节 Meta Learning 作业 HW15: Meta Learning
-
-[HW1: Regression](https://www.notion.so/HW1-Regression-f7f0f299458849b6b5b5e6261fdf69c4)
-
-[HW2: Classification ](https://www.notion.so/HW2-Classification-808fe84026f34f69be82b4317cd921df)
