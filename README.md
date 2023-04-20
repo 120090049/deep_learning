@@ -15,5 +15,5 @@ source /home/username/catkin_ws/devel/setup.bash
 
 or add it to the ~/.bashrc
 
-![image.png](README+60994b14-9d30-4bb8-8c81-5bcd51f6f9a9/image.png)
+![image.png](README/image.png)
 
